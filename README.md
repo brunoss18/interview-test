@@ -8,10 +8,11 @@ Crud for interview
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- SQLITE
 - HTML
 - CSS
 - JavaScript
-- SQLITE
+
 
 
 ## 💻 Project
